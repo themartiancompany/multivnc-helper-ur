@@ -1,6 +1,6 @@
 pkgbase = multivnc-helper
 	pkgdesc = Get/set MultiVNC settings.
-	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1
+	pkgver = 0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1
 	pkgrel = 1
 	url = https://github.com/themartiancompany/multivnc-helper
 	arch = any
@@ -11,7 +11,7 @@ pkgbase = multivnc-helper
 	depends = sqlite
 	depends = android-utils
 	optdepends = android-vnc-viewer: uses this to seamlessly run MultiVNC
-	source = multivnc-helper-14a4c22f98a05a4aa4b3aa949ccce32f3755e104.zip::https://github.com/themartiancompany/multivnc-helper/archive/14a4c22f98a05a4aa4b3aa949ccce32f3755e104.zip
+	source = multivnc-helper-81b300987cc35fa139845e0ce22854fd07892c9e.zip::https://github.com/themartiancompany/multivnc-helper/archive/81b300987cc35fa139845e0ce22854fd07892c9e.zip
 	validpgpkeys = 97E989E6CF1D2C7F7A41FF9F95684DBE23D6A3E9
 	sha256sums = 2208e45bc38fdf608dbab0b6e07167f4dd2a6870d2394338f02010a0eb159216
 

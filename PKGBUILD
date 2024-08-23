@@ -6,8 +6,8 @@
 _offline="false"
 _git="false"
 pkgname=multivnc-helper
-pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1
-_commit="14a4c22f98a05a4aa4b3aa949ccce32f3755e104"
+pkgver=0.0.0.0.0.0.0.0.0.0.0.0.0.1.1.1
+_commit="81b300987cc35fa139845e0ce22854fd07892c9e"
 pkgrel=1
 _pkgdesc=(
   "Get/set MultiVNC settings."
